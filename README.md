@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+## 启动项目前
+请输入: npm install  
+       npm install --save axios   
+
+
 ## Build Setup
 
 ``` bash
