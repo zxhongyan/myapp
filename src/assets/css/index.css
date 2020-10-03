@@ -1,0 +1,223 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#app{
+    width: 100vw;
+}
+/* 隐藏滚动条 */
+::-webkit-scrollbar{
+    display: none;
+}
+/* 定位组件 */
+.position_top{
+    position: absolute;
+    top: 0;
+}
+.position_bottom{
+    position: absolute;
+    bottom: 0;
+}
+/* 字体超出单行部分用省略号代替 */
+.line_limit_length {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;    
+}
+/* 字体超出单行部分用省略号代替 */
+.lines_limit_length{
+    overflow : hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box; 
+    -webkit-line-clamp: 3; 
+    -webkit-box-orient: vertical
+}
+/* 水平垂直居中 */
+.display_center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+/* home主页 */
+.home{
+    height: 90vh;
+    overflow: scroll;
+}
+
+/* search搜索 */
+.search{
+    height: 7vh;
+    display: flex;
+    border-radius: 5px;
+    background-color: #eee;
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+.search .camera{
+    position: absolute;
+    right: 10px;
+}
+
+
+/* category图标分类模块 */
+.category{
+    width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    transition: 0.5s;
+  }
+  .category .category-index{
+    width: 20vw;
+    max-width: 100px;
+  }
+  .category .category-index:hover{
+    background-color: #eee ;
+  }
+  .category .category-index .iconfont{
+    display: flex;
+    justify-content: center;
+    padding-top: 1vh;
+  }
+  .category .category-index label{
+    display: flex;
+    justify-content: center;
+  }
+
+/* ad广告模块 */
+ul{
+    list-style-type:none;
+}
+.ad{
+  width: 100vw;
+  text-align: center;
+  position: relative;
+}
+.ad .banner-circle{
+    position: absolute;
+    bottom: 5px;
+    left: 0;
+    right: 0;
+    color: #fff;
+}
+.ad .banner-circle li{
+    display: inline-block;
+    background-color: rgba(0, 0, 0,.3);
+    border-radius: 50%;
+    padding: 5px;
+    margin: 2px;
+}
+.ad .banner-circle ul{
+    text-align: center;
+}
+.ad .banner-circle .selected{
+    background-color: rgba(0, 0, 0, .8);
+}
+.ad img{
+    width: 100vw;
+    max-width: 500px;
+    margin: 0;
+    padding: 0;
+}
+
+/* product商品展示模块 */
+.product{
+    max-width: 500px;
+    margin: auto;
+}
+.product li{
+    display: flex;
+}
+.product img{
+    width : 150px;
+    height : 150px;
+}
+.product .discription{
+    margin-left: 5px;
+    position: relative;
+    height: 150px;
+}
+.product .discription .font_size{
+    font-size: 10px;
+}
+.product .discription .store_name{
+    color: #5C4033;
+    background-color: #DBDB70;
+}
+.product .discription .discount{
+    color:#fa4343;
+}
+.product .discription .uprice{
+    color:#BEBEBE;
+    text-decoration: line-through;
+}
+
+
+
+
+/* find发现页面 */
+.find{
+    height: 90vh;
+    overflow: scroll;
+}
+.find .top{
+    height: 5vh;
+}
+
+/* sort分类模块 */
+.sort{
+    border-top: 1px solid rgb(175, 164, 164);
+}
+.sort .left_bar{
+    width: 25vw;
+    background-color: #eee;
+}
+.sort .left_bar .species{
+    height: 7.5vh;
+}
+.sort .left_bar .species:hover{
+    background-color: white;
+    color: #fa4343;
+}
+
+
+/* navbottom底部样式 */
+.NavBottom a{
+    width: 25vw;
+    height: 10vh;
+    text-decoration: none;
+    color: black;
+    transition: 1s;
+}
+.NavBottom a:hover{
+    background:white;
+}
+.NavBottom{
+    background-color: #eee;
+    height: 10vh;
+    width: 100vw;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+}
+.NavBottom i{
+    padding-top: 2.5vh;
+    width: 25vw;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+} 
+.NavBottom label{
+    width: 25vw;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}

@@ -1,0 +1,42 @@
+{
+    "success": "true",
+    "data": [{
+            "store_name" : "某某衣服旗舰店",
+            "store_review" : "99%",
+            "product_id"  : 1,
+            "product_name"  : "衣服",
+            "product_img_url" : "https://img.alicdn.com/imgextra/i2/1131780167/O1CN01BK0XCH1D6WllREru8_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "product_uprice" : "200",
+            "product_price" : "159",
+            "product_detail" : "2020女装秋装大码女装胖MM衬衫女长袖雪纺上衣纯色韩范打底衬衣"
+            },{
+            "store_name" : "某某衣服旗舰店",
+            "store_review" : "99%",
+            "product_id"  : 1,
+            "product_name"  : "衣服",
+            "product_img_url" : "https://img.alicdn.com/imgextra/i2/1131780167/O1CN01BK0XCH1D6WllREru8_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "product_uprice" : "200",
+            "product_price" : "159",
+            "product_detail" : "2020女装秋装大码女装胖MM衬衫女长袖雪纺上衣纯色韩范打底衬衣"
+            },{
+            "store_name" : "某某衣服旗舰店",
+            "store_review" : "99%",
+            "product_id"  : 1,
+            "product_name"  : "衣服",
+            "product_img_url" : "https://img.alicdn.com/imgextra/i2/1131780167/O1CN01BK0XCH1D6WllREru8_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+            "product_uprice" : "200",
+            "product_price" : "159",
+            "product_detail" : "2020女装秋装大码女装胖MM衬衫女长袖雪纺上衣纯色韩范打底衬衣"
+            },{
+            "store_name" : "某某衣服旗舰店",
+            "store_review" : "99%",
+            "product_id"  : 1,
+            "product_name"  : "衣服",
+            "product_img_url" : "https://img.alicdn.com/imgextra/i2/1131780167/O1CN01BK0XCH1D6WllREru8_!!0-saturn_solar.jpg_220x220.jpg_.webp",
+           "product_uprice" : "200",
+            "product_price" : "159",
+            "product_detail" : "2020女装秋装大码女装胖MM衬衫女长袖雪纺上衣纯色韩范打底衬衣"
+            }]
+        
+    
+}
