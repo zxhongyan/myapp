@@ -5,7 +5,7 @@
                 
                     <router-link :to="'/detail/'+item.product_id">
                         <img :src="item.product_img_url" >
-                    </router-link>
+                    
                 
                 <label>
                     <div class="discription">
@@ -19,6 +19,8 @@
                     </div>
 
                 </label>
+                
+                    </router-link>
             </li>
         </ul>
     </div>
@@ -40,7 +42,7 @@ export default {
             //   检测数据后，将正确的数据写入items
               if(res.data.success){
                 this.items = res.data.data;//将data写入items中
-                console.log(this.items);
+                // console.log(this.items);
               }
           },(error)=>{
               console.log('访问数据失败')
