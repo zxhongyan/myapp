@@ -1,10 +1,19 @@
-# myapp
+# 简介
 
-> A Vue.js project
+## 1. 项目描述
 
-## 启动项目前
-请输入: npm install  
-       npm install --save axios   
+1. 此项目为一个前后端分离的电商商城 Web App 项目
+2. 使用了 Vue 全家桶+ES6+Webpack 等前端最新技术 
+3. 包括商家, 商品, 购物车, 用户等多个功能子模块 
+4. 采用模块化、组件化、工程化的模式开发 
+
+
+
+## 2.运行项目
+       1.npm install  
+       2.npm install --save axios   
+       3.npm run dev / npm start
+
 
 
 ## Build Setup
