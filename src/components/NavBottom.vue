@@ -9,7 +9,7 @@
         <label>发现</label>
     </router-link>
     <router-link to="/order">
-        <i class="fa fa-file-text"></i>
+        <i class="fa fa-shopping-cart"></i>
         <label>订单</label>
     </router-link>
     <router-link to="/my">

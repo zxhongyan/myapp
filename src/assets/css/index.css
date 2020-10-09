@@ -51,6 +51,7 @@ a{
 .home{
     height: 90vh;
     overflow: scroll;
+    
 }
 
 /* search搜索 */
@@ -224,6 +225,108 @@ ul{
     justify-content: center ;
 }
 
+
+
+
+/* order购物车页面 */
+.order{
+    height: 90vh;
+    overflow: scroll;
+}
+.order .top{
+    height: 5vh;
+}
+.order .content{
+    border-top: 3px solid #eee;
+    min-height: 25vh;
+
+}
+.order .advace{
+
+}
+
+
+
+
+
+
+/* my我的页面 */
+.my{
+    height: 90vh;
+    overflow: scroll;
+}
+
+
+/* my_imformation我的信息模块 */
+.my_imformation{
+    height: 25vw;
+    display: flex;
+    margin-top: 5px;
+}
+.my_imformation .img{
+    height: 25vw;
+    width: 25vw;
+}
+.my_imformation .img img{
+    height: 25vw;
+    width: 25vw;
+    border-radius: 50%;
+}
+.my_imformation .user{
+    height: 25vw;
+    width: 50vw;  
+}
+.my_imformation .user b{
+    width: 50vw;  
+    font-size: 8vw;
+    display: block;
+    margin-top: 5vw;
+}
+.my_imformation .user a{
+    font-size: 4vw;
+    color: darkgrey;
+}
+
+/* my_order我的订单模块 */
+.my_order{
+    margin-top: 5px;
+    width: 100vw;
+    height: 30vw;
+    border-top: 3px solid #eee;
+    border-bottom: 10px solid #eee;
+}
+.my_order .top{
+    height: 5vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.my_order .top a{
+    font-size: 4vw;
+    color: darkgrey;
+}
+.my_order .bottom a{
+    width: 25vw;
+    height: 10vh;
+    transition: 1s;
+}
+.my_order .bottom{
+    width: 100vw;
+    display: flex;  
+}
+.my_order .bottom i{
+    padding-top: 2.5vh;
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+} 
+.my_order .bottom label{
+    width: 20vw;
+    display: flex;
+    align-items: center;
+    justify-content: center ;
+}
 
 /* navbottom底部样式 */
 .NavBottom a{

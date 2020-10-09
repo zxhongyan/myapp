@@ -11,31 +11,31 @@
             "product_detail" : "2020女装秋装大码女装胖MM衬衫女长袖雪纺上衣纯色韩范打底衬衣"
             },{
             "store_name" : "某某衣服旗舰店",
-            "store_review" : "99%",
-            "product_id"  : 1,
+            "store_review" : "92%",
+            "product_id"  : 2,
             "product_name"  : "衣服",
-            "product_img_url" : "https://img.alicdn.com/imgextra/i2/1131780167/O1CN01BK0XCH1D6WllREru8_!!0-saturn_solar.jpg_220x220.jpg_.webp",
-            "product_uprice" : "200",
-            "product_price" : "159",
+            "product_img_url" : "https://gma.alicdn.com/bao/uploaded/i4/42233403/O1CN01ODcpMj1b0cNANzlNN_!!0-saturn_solar.jpg_200x200.jpg_.webp",
+            "product_uprice" : "150",
+            "product_price" : "99",
+            "product_detail" : "定制书包瑞士军刀时尚背包超火双肩包男百搭大容量多功能运动学院"
+            },{
+            "store_name" : "某某书包旗舰店",
+            "store_review" : "99%",
+            "product_id"  : 3,
+            "product_name"  : "书包",
+            "product_img_url" : "https://img.alicdn.com/imgextra/i4/51701617/O1CN0151mwlN1Nod3rszZ4y_!!0-saturn_solar.jpg_260x260.jpg",
+            "product_uprice" : "299",
+            "product_price" : "119",
             "product_detail" : "2020女装秋装大码女装胖MM衬衫女长袖雪纺上衣纯色韩范打底衬衣"
             },{
-            "store_name" : "某某衣服旗舰店",
-            "store_review" : "99%",
-            "product_id"  : 1,
-            "product_name"  : "衣服",
-            "product_img_url" : "https://img.alicdn.com/imgextra/i2/1131780167/O1CN01BK0XCH1D6WllREru8_!!0-saturn_solar.jpg_220x220.jpg_.webp",
-            "product_uprice" : "200",
-            "product_price" : "159",
-            "product_detail" : "2020女装秋装大码女装胖MM衬衫女长袖雪纺上衣纯色韩范打底衬衣"
-            },{
-            "store_name" : "某某衣服旗舰店",
-            "store_review" : "99%",
-            "product_id"  : 1,
-            "product_name"  : "衣服",
-            "product_img_url" : "https://img.alicdn.com/imgextra/i2/1131780167/O1CN01BK0XCH1D6WllREru8_!!0-saturn_solar.jpg_220x220.jpg_.webp",
-           "product_uprice" : "200",
-            "product_price" : "159",
-            "product_detail" : "2020女装秋装大码女装胖MM衬衫女长袖雪纺上衣纯色韩范打底衬衣"
+            "store_name" : "某某数码旗舰店",
+            "store_review" : "95%",
+            "product_id"  : 4,
+            "product_name"  : "平板电脑",
+            "product_img_url" : "https://img.alicdn.com/imgextra/i2/40324244/O1CN01wyFQax1hDnWoEvjDg_!!0-saturn_solar.jpg_260x260.jpg",
+           "product_uprice" : "5000",
+            "product_price" : "4599",
+            "product_detail" : "Microsoft/微软 Surface Go 2 4425Y 8GB 128GB 10.5英寸平板笔记本电脑二合一 超薄触屏学生PC"
             }]
         
     
